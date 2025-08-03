@@ -36,7 +36,6 @@ A Model Context Protocol (MCP) server that enables Claude Desktop to interact wi
          "command": "node",
          "args": ["/absolute/path/to/exabeam-mcp-server.js"],
          "env": {
-           "EXABEAM_URL": "https://your-exabeam-instance.com",
            "EXABEAM_API_KEY": "your_api_key_here",
            "EXABEAM_API_SECRET": "your_api_secret_here"
          }
